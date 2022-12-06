@@ -1,0 +1,22 @@
+{
+  "name": "moment-day-vs-days",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/moment-day-vs-days.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/moment-day-vs-days/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/moment-day-vs-days#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
